@@ -1,0 +1,21 @@
+img{
+    width: 70px;
+   
+   
+  
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+  
+}
+p{
+    font-size: xx-large;
+
+}
+body{
+    background-color: rgba(241, 240, 239, 0.705);
+}
+
